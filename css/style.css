@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(92, 91, 87, 0.075);
+}
+
+.template-table {
+    width: 80%;
+}
+
+.th-about {
+    text-align: center;
+}
+
+.th-contact {
+    text-align: right;
+    width: 25%;
+}
+
+.th-contact-field {
+    text-align: left;
+    width: 75%;
+}
+
+.img {
+    max-height: 200px;
+    max-width: 200px;
+}
