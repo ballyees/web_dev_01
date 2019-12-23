@@ -20,8 +20,14 @@ body {
     width: 75%;
 }
 
-.img {
+.img-profile {
     max-height: 50%;
     max-width: 50%;
+    vertical-align: middle;
+}
+
+.img {
+    max-height: 75%;
+    max-width: 75%;
     vertical-align: middle;
 }

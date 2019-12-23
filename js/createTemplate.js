@@ -29,7 +29,7 @@ inhtml = '<thead>' +
     '<th scope="col" style="width: 30%;">' +
     '<center>' +
     // '<picture>' +
-    '<img src="img/profile.jpg" class="img-fluid mx-auto img" alt="Responsive image">' +
+    '<img src="img/profile.jpg" class="img-fluid mx-auto img-profile" alt="Responsive image">' +
     // '</picture>' +
     '</center>' +
     '</th>' +
