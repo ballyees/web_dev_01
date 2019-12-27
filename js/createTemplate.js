@@ -29,8 +29,10 @@ inhtml = '<thead>' +
     '<th scope="col" style="width: 30%;">' +
     '<center>' +
     // '<picture>' +
+    '<a href="https://www.facebook.com/ballball.ball.96">' +
     '<img src="img/profile.jpg" class="img-fluid mx-auto img-profile" alt="Responsive image">' +
     // '</picture>' +
+    '</a>' +
     '</center>' +
     '</th>' +
     '</tr>' +
